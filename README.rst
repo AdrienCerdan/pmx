@@ -14,6 +14,8 @@ calculations for protein, nucleic acid, and small molecule mutations.
 
 https://degrootlab.github.io/pmx/
 
+This ``fork`` aims at adapting the code for ubuntu 22.04 and usage of gromacs 2024.1 !
+
 Citations
 ---------
 ``pmx`` is a research software. If you make use of it in scientific publications, please cite the following papers::
